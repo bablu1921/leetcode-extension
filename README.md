@@ -5,7 +5,7 @@
 2️⃣ Company tags: Adds the top 5 companies that ask each [problem](https://leetcode.com/problems/two-sum/description)
 
 3️⃣ Problems by company
-Click a company tag to view every question that company has asked in the past 6 months, 1 year, 2 years, and all time. Sort by the date, acceptance rating, difficulty, and more.
+Click a company tag to view every question that company has asked in the past 3 months ,6 months, 1 year, 2 years, and all time. Sort by the date, acceptance rating, difficulty, and more.
 
 4️⃣ Complexity Analysis
 Reads your code and gets the time & space complexity using GPT
