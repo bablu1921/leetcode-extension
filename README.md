@@ -24,7 +24,7 @@ To activate features 4️⃣ and 5️⃣, log into ChatGPT in your browser and p
 ### ⚙️ Installation
 
 
-1. ``` git clone https://github.com/zubyj/leetcode-explained.git ```
+1. ``` git clone https://github.com/bablu1921/leetcode-extension.git ```
 2. ``` cd leetcode-explained ```
 3. ``` npm install && tsc```
 4. Open Google Chrome and navigate to ```chrome://extensions``` in the search bar.
